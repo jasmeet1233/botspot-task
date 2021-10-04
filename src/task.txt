@@ -1,0 +1,4 @@
+Thank you for your interest in our internship opening. As a next step, we are expecting you to complete a short assignment.
+Task : Frontend signup page with validation.
+For example: * If user did not fill any field or put wrong email type or minimum password length and clicked on submit button then it field will be changed into red colour. 
+* You have design interactive both pages.
